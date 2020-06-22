@@ -1,2 +1,2 @@
 # class-work
-# Working with classes and methods
+# Working with classes and objects
