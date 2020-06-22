@@ -1,2 +1,2 @@
 # class-work
-Creating classes
+# Working with classes and methods
