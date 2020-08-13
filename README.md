@@ -1,2 +1,2 @@
 # class-work
-# Working with classes and objects
+# intro work with classes and objects
